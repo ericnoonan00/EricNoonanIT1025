@@ -22,3 +22,22 @@ ___
 * When we are ready to use the output that is saved in the Register, the Control Unit turns on the Enable Wire. As soon as the Enable Wire is turned on, the Register will output whatever number is saved inside.
 * The output then goes a series of wires that connect different parts of the CPU called a Bus. On this Bus are some other registers with their own Set/Enable wires which may have different numbers from previous instuctions.
 * Finally the Control Unit will turn off the Enable Wire which will clear the Bus.
+
+
+
+
+# 3. Data Representation
+Decimal, Hexidecimal, and Binary are number systems in different bases.
+* *Decimal* is base 10
+* *Hexidecimal* is base 6
+* *Binary* is base 2
+For example:
+* 189 in Decimal would be 10111101 in binary
+* 
+
+
+
+
+
+
+
