@@ -1,3 +1,6 @@
+# Executive Summary
+
+___
 # 1. Hardware - Hardware drives and memory
 ### Hard Drives - Difference Between Latency and Transfer Rate
 * Latency is measured in milliseconds and Transfer Rates are measured in MBps (Megabytes per second)
