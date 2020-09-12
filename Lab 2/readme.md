@@ -1,5 +1,4 @@
-# 1. Hardware
-#### Hardware drives and memory
+# 1. Hardware - Hardware drives and memory
 ___
 ## Hard Drives - Difference Between Latency and Transfer Rate
 * Latency is measured in milliseconds and Transfer Rates are measured in MBps (Megabytes per second)
@@ -22,6 +21,11 @@ ___
 * When we are ready to use the output that is saved in the Register, the Control Unit turns on the Enable Wire. As soon as the Enable Wire is turned on, the Register will output whatever number is saved inside.
 * The output then goes a series of wires that connect different parts of the CPU called a Bus. On this Bus are some other registers with their own Set/Enable wires which may have different numbers from previous instuctions.
 * Finally the Control Unit will turn off the Enable Wire which will clear the Bus.
+### Hardware - CPU, Input, and Output
+An example of a CPU getting input and giving Output would be at the grocery store self checkout
+* You, the user, input data into the self checkout kiosk by scanning your item
+* The CPU of the kiosk, turns the data into binary code to store as memory
+* Next, the kiosk displays the data stored as memory as output. This would be the price and name of the item, and even how much it weighs.
 
 
 
