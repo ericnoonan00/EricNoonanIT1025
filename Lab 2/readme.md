@@ -31,9 +31,7 @@ Decimal, Hexidecimal, and Binary are number systems in different bases.
 * *Decimal* is base 10
 * *Hexidecimal* is base 6
 * *Binary* is base 2
-For example:
-* 189 in Decimal would be 10111101 in binary
-* 
+For example, 189 in Decimal would be 10111101 in binary (work shown using MS Paint)
 
 
 
