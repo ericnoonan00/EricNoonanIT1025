@@ -27,12 +27,15 @@ ___
 
 
 # 3. Data Representation
-Decimal, Hexidecimal, and Binary are number systems in different bases.
+### Numeric Conversions
+Decimal, Hexadecimal, and Binary are number systems in different bases.
 * *Decimal* is base 10
-* *Hexidecimal* is base 6
+* *Hexadecimal* is base 16 (0,1,2,3,4,5,6,7,8,9,a,b,c,d,e,f)
 * *Binary* is base 2
 For example, 189 in Decimal would be 10111101 in binary (work shown using MS Paint)
-
+### Hexadecimal Color Representation
+Hexadecimal is used to represent a color on the color wheel when we program. For example, ab00ff is a magenta-like purple color.
+While pleasant to the eye, this color may be problematic in constructing a webpage due to many normal colors not being contrasted enough against it. For example that color text would not be legible on a black or blue background. It would have to be a jarring, bright green in order to get enough contrast, however that would hurt the eyes.
 
 
 
