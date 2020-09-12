@@ -1,5 +1,5 @@
 # Executive Summary
-
+The purpose of Lab 2 is to examine a couple different types of hardware, as well as talk about some numeric representations that a computer of website may use. It's important to know how your computer works as it will help you further understand what the programs that you write are doing. It will also help you to troubleshoot errors that your computer might be going through.
 ___
 # 1. Hardware - Hardware drives and memory
 ### Hard Drives - Difference Between Latency and Transfer Rate
@@ -47,8 +47,9 @@ For example, 189 in Decimal would be 10111101 in binary (work shown using MS Pai
 ### Hexadecimal Color Representation
 Hexadecimal is used to represent a color on the color wheel when we program. For example, ab00ff is a magenta-like purple color.
 While pleasant to the eye, this color may be problematic in constructing a webpage due to many normal colors not being contrasted enough against it. For example that color text would not be legible on a black or blue background. It would have to be a jarring, bright green in order to get enough contrast, however that would hurt the eyes.
-
-
+___
+# Summary
+In Lab 2 we examined different types of storage, how a CPU works with an ALU to produce an output, different types of logic gates, and different numeric representations. Before this Lab, I didn't know how a CPU worked, and now that I do, I find it very interesting. It really blows my mind how a computer can take physical, electrical charges and turn it into digital output; all in a billionth of a second.
 
 
 
