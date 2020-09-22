@@ -26,7 +26,7 @@ ___
 <ul>
   <li>Python's <strong>Pseudo-Code</strong> nature: Pseudo-Code is code that describes what a program is supposed to do or what a program is doing. When one codes with Python, you're focusing on the solution rather then focussing on the extreme syntax of a language like JavaScript or C++.</li>
   <li>A <strong>compiled</strong> language (i.e. C or C++) is translated from the source code into the binary, the computer's native language. On the other hand, an <strong>interpreted</strong> language is one that doesn't need compiled because it translates the source code into things called <strong>byte-codes</strong> (compact, numerical interpretations of a source code), which are then translated into the native language.</li>
-  <p><img src='Python1.png' alt="Python1.png"></p>
+  
   
   
 </ul>
