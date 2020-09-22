@@ -11,7 +11,12 @@ ___
 ___
 # 2. Virtualization
 <ul>
-  <li><strong>Problems Solved by Virtualization</strong>: </li>
+  <li><strong>Problems Solved by Virtualization</strong>: 
+     <ul>
+       <li>Using 1 server for many tasks allows you to operate for cheaper than if you had 3 servers for 3 tasks</li>
+       <li>You can now utilize servers to their full potential by allocating the unused server space for virtual machines</li>
+     </ul>
+  </li>
   <li><strong>Hypervisors</strong> are a thin layer of software that unravel the mess of virual machines a server might have and put each of them in the hands of whoever might need them at a given moment.</li>
 </ul>
 
