@@ -11,9 +11,10 @@ ___
 ___
 # 2. Virtualization
 <ul>
-  <li></li>
-  
+  <li><strong>Problems Solved by Virtualization</strong>: </li>
+  <li><strong>Hypervisors</strong> are a thin layer of software that unravel the mess of virual machines a server might have and put each of them in the hands of whoever might need them at a given moment.</li>
 </ul>
+
 ___
 # 3. Python
 
