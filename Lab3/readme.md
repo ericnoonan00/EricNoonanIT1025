@@ -43,6 +43,15 @@ ___
   <li>Computer Network Architects; Bachelor's degree; $117,000 median pay in 2019; No on-the-job training; Average job groth</li>
 </ul>
 <h3>Certifications</h3>
+<ul>
+  <li>CompTIA is a certification that applies an analytical approach to networks in order to prevent, detect, and combat cybersecurity threats.</li>
+  <li></li>
+</ul>
+<h3>Certificates</h3>
+
+<h3>Internships and Co-Ops</h3>
+
+<h3>Industry Associations / Student orginizations</h3>
 
 ___
 # Conclusion
