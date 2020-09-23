@@ -48,7 +48,7 @@ ___
   <li>Cisco offers a a range of certifications. One can work their way up from an entry level certification, all the way up to a prestigious Expert or even Architect certification</li>
 </ul>
 <h3>Certificates</h3>
-<ul><li><strong<Web Application Developement</strong>: a short-term certificate in which one explores current tech to develope web apps. Certificate is stackable with a Programming and Developement degree.</li></ul>
+<ul><li><strong>Web Application Developement</strong>: a short-term certificate in which one explores current tech to develope web apps. Certificate is stackable with a Programming and Developement degree.</li></ul>
 <h3>Internships and Co-Ops</h3>
 In order to be co-op ready, one needs to:
 <ul>
@@ -57,7 +57,7 @@ In order to be co-op ready, one needs to:
   <li>have a GPA of 2.75 or higher</li>
 </ul>
 <h3>Industry Associations / Student orginizations</h3>
-
+<p><strong>CCDC</strong> is a CyberSecurity club which hosts events where teams will compete to protect a network. Each team is given identical hardware/software and is scored based on how well they protect the business from threats that a neutral red team provides.</p>
 
 ___
 # Conclusion
