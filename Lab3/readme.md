@@ -45,13 +45,19 @@ ___
 <h3>Certifications</h3>
 <ul>
   <li>CompTIA is a certification that applies an analytical approach to networks in order to prevent, detect, and combat cybersecurity threats.</li>
-  <li></li>
+  <li>Cisco offers a a range of certifications. One can work their way up from an entry level certification, all the way up to a prestigious Expert or even Architect certification</li>
 </ul>
 <h3>Certificates</h3>
-
+<ul><li><strong<Web Application Developement</strong>: a short-term certificate in which one explores current tech to develope web apps. Certificate is stackable with a Programming and Developement degree.</li></ul>
 <h3>Internships and Co-Ops</h3>
-
+In order to be co-op ready, one needs to:
+<ul>
+  <li>have completed 12 or more credit hours with at least two IT courses</li>
+  <li>be currently enrolled in Tri-C</li>
+  <li>have a GPA of 2.75 or higher</li>
+</ul>
 <h3>Industry Associations / Student orginizations</h3>
+
 
 ___
 # Conclusion
