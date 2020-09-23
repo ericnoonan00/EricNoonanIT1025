@@ -1,4 +1,5 @@
 # Executive Summary
+In lab 3, we will define software types, practice working with virtualization and Python, and explore careers in information technology as well as co-ops, internships, certificates, certifications, industry association and student organization membership.  
 
 ___
 # 1. Software
@@ -18,7 +19,7 @@ ___
      </ul>
   </li>
   <li><strong>Hypervisors</strong> are a thin layer of software that unravel the mess of virual machines a server might have and put each of them in the hands of whoever might need them at a given moment.</li>
-  <li>Option A: ***Still needs done***</li>
+  <li>Option A: The difference between cloud computing and virtualization is virtualization allows you to create <i>simulated</i> environments, whereas cloud computing <i>is the environment</i> and one accesses that <i>real</i> environment remotely. In order for one to move from virtualization to cloud, one can create a cloud by pooling virtual resources together, organizing them using management and automation software, and creating a self-service portal for users.</li>
 </ul>
 
 ___
