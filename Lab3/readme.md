@@ -31,6 +31,18 @@ ___
 
 ___
 # 4. Career Exploration
+<h3>College Central</h3>
+<ul>
+  <li><b>College Central</b> easily allows one to search for jobs and internships as well as keep their resumes organized. It has helpful advice for graduating and enrolled students for finding work and experience.</li>
+</ul>
+<h3>Bureau of Labor Statistics</h3>
+<ul>
+  <li>Web developers and digital interface designers; Associate’s degree; $60,000 to $79,999; No on-the-job training; Huge growth in the job market</li>
+  <li>Computer systems analyst; Bachelor's degree; $90,000 median pay in 2019; No on-the-job training; Fast growth in this job market</li>
+  <li>Database architects; Bachelor's degree; $93,000 median pay in 2019; No on-the-job training; Extreme growth in this job market</li>
+  <li>Computer Network Architects; Bachelor's 
+</ul>
+
 
 ___
 # Conclusion
