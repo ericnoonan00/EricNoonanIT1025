@@ -40,9 +40,9 @@ ___
   <li>Web developers and digital interface designers; Associate’s degree; $60,000 to $79,999; No on-the-job training; Huge growth in the job market</li>
   <li>Computer systems analyst; Bachelor's degree; $90,000 median pay in 2019; No on-the-job training; Fast growth in this job market</li>
   <li>Database architects; Bachelor's degree; $93,000 median pay in 2019; No on-the-job training; Extreme growth in this job market</li>
-  <li>Computer Network Architects; Bachelor's 
+  <li>Computer Network Architects; Bachelor's degree; $117,000 median pay in 2019; No on-the-job training; Average job groth</li>
 </ul>
-
+<h3>Certifications</h3>
 
 ___
 # Conclusion
