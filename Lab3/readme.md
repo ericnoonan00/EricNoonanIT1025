@@ -62,6 +62,6 @@ In order to be co-op ready, one needs to:
 
 ___
 # Conclusion
-
+In Lab 3 we define software types, practiced working with virtualization and Python, explored careers in information technology, and looked atco-ops, internships, certificates, certifications, industry association and student organization membership. Before this lab, I had very minimal experience with python. I enjoyed learning about virtualization, how it works and the differences between it and cloud computing. I feel as if I have come closer to finding my passion in IT through this lab. On a final note, I also got to practice formatting using HTML in this lab. 
 
  
