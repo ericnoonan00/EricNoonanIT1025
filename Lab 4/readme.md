@@ -23,6 +23,30 @@ There are three data types. The first is a string which is a line of text enclos
 ___
 
 # 3. Graphics
+### Raster vs Vector Graphics
+Raster is the type of image that is composed entirely of millions of pixels. Vector describes the type of images that are formed using a special type of geometry. Raster graphics lose their image quality when they are zoomed in upon. Vector graphics do not suffer from this because of the way they are rendered.
+### Lossless vs Lossy Compression
+Lossy compression is a form of compression in which some of the data is removed from the file and thus the image quality is reduced slightly. Lossless compression is a form of compression in which none of the original data is thrown away. Each has their own advantages. For example, lossy compression is good for programs that have a lot of files, while lossless compresion is good for simple graphical files.
+### File Formats: PNG, JPEG, & GIF
+###### GIF
+<ul>
+  <li>allows for animation of image, something that the other formats do not allow for</li>
+  <li>uses 8 bits per pixel which is only 256 RBG colors making it sub optimal for color complexity</li>
+</ul>
+
+###### JPEG
+<ul>
+  <li>because JPEG uses lossy compression, it's prone to artifacting</li>
+  <li>allows the user to control the amount of comporession that is used in the image file</li>
+</ul>
+
+###### PNG
+<ul>
+  <li>uses lossless data compression</li>
+  <li>now supported properly by every major browser</li>
+  <li>PNG files support palette-based color (either 24-bit RGB or 32-bit RGBA), greyscale, RGBA and RGB color spaces</li>
+  <li>supports a number of transparency options</li>
+</ul>
 
 ___
 # Summary
