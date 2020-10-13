@@ -1,5 +1,6 @@
 # Executive Summary
-
+Examine operating systems and practice working at the command line of your operating system. 
+Explore additional software including: an interactive programming environment, graphics and diagramming.  
 ___
 
 # 1. Operating Systems
@@ -47,6 +48,8 @@ Lossy compression is a form of compression in which some of the data is removed 
   <li>PNG files support palette-based color (either 24-bit RGB or 32-bit RGBA), greyscale, RGBA and RGB color spaces</li>
   <li>supports a number of transparency options</li>
 </ul>
+
+### File Properties
 
 ___
 # Summary
