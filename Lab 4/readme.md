@@ -1,6 +1,5 @@
 # Executive Summary
-Examine operating systems and practice working at the command line of your operating system. 
-Explore additional software including: an interactive programming environment, graphics and diagramming.  
+The purpose of Lab 4 is to explore my current operating system and its terminal, explore and experiment with Python IDLE, and to explore different types of graphic types, image files and compression types. I look forward to exploring the terminal more and learning about images, as I am an artistic person.
 ___
 
 # 1. Operating Systems
@@ -55,3 +54,7 @@ Lossy compression is a form of compression in which some of the data is removed 
 **ii.** The size of my file was 70.3 KB and by default it opens with Chrome. A better option would be a dedicated graphical editor such as Adobe Illustrator, Adobe Photoshop, GIMP, or Paint.NET. These types of apps would be more appropriate because they are many times more powerful than Vectr and allow multitudes more options than Vectr. Also, when working on a more copmlex project, using a cloud-based graphical editor would not be convenient.
 ___
 # Summary
+Lab 4 taught me how to use the terminal to create and explore directories and how to find help in the Windows Command Prompt. It also taught me a little bit about how to use the Python IDLE terminal and how to write some code in Python. Python is a very unique programming language to me and I look forward to learning more about it. Finally, I learned the differences between the image files I see on a daily basis and what each one's advantages are. I never knew how a GIF animated itself before. I thought it was the same as an MP4 or MOV file, but really a gif is similar to those, except all the images are crammed into one file. An MP4 would be a <a href="https://blog.schoolspecialty.com/wp-content/uploads/2016/12/Flipbook-Animation.gif">flipbook</a> while a GIF would be a <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Prof._Stampfer%27s_Stroboscopische_Scheibe_No._X.gif/220px-Prof._Stampfer%27s_Stroboscopische_Scheibe_No._X.gif">stroboscope</a> animation.
+
+
+
