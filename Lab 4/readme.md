@@ -50,6 +50,7 @@ Lossy compression is a form of compression in which some of the data is removed 
 </ul>
 
 ### File Properties
-
+**i.** There were 9 layers in my project. I started off by making a rectangle for a background which I made my design on. Next, I made the big "E" and fit it to the center of the square. I used the text tool for this. Next, I made the words "Eric" and "Enterprise" using the big "E." Then, I searched through the different shapes i could make with the shape library on Vectr. I found the folder icon, which fits well with an IT enterprise. Finally, I drew out the DNA design in order to: fill up space left in between the "E" and the word "enterprise" and to relate it to making advancements in computer science. The double helix shape, being a relatively recent discovery, has an inspiring aura to it. This shape consisted of three vector paths.
+**ii.** The size of my file was 70.3 KB and by default it opens with Chrome. A better option would be a dedicated graphical editor such as Adobe Illustrator, Adobe Photoshop, GIMP, or Paint.NET. These types of apps would be more appropriate because they are many times more powerful than Vectr and allow multitudes more options than Vectr. Also, when working on a more copmlex project, using a cloud-based graphical editor would not be convenient.
 ___
 # Summary
