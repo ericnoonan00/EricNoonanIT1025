@@ -22,10 +22,12 @@ ___
 * Single Point failure - when the central hub/switch fails or a device fails. Wired topologies experience this such as: Star, Ring, or Bus.
 * I like the wireless mesh architecture better as it seems much easier to set up.
 
-### NSA/CSS
-* 
+### Network Design
+I made an infrastructure topology. Data is received through the modem and brought to a switch which sends the packets to the appropriate devices. The switch also sends data to a router which acts as a wireless access point for the cell phone and printer. The arrows that connect the PC's and switch point both ways. I included this because the PC's are able to send data to the other places on the network. I also included the double arrow that connects the switch to the router because the data from the wireless devices travel through the router to access the other devices on the network. Finally, the dotted lines that connect the router to the wireless devices are dotted because it represents the lack of a real wire.
 
-### Network Hardware
+### NSA/CSS
+* The NSA/CSS is a government agency that detects, prevents, and stops cyber attacks. In this day and age, cyber attacks are a real threat to our nation and without an incredibly fine tuned and dependable organization to stop them, the whole country's information would be at risk, making us vulnerable to physical attack and economic crisis.
+
 ___
 
 # 3. Cybersecurity and Encryption
