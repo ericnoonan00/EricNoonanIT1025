@@ -1,5 +1,5 @@
 # Executive Summary
-
+In lab 5 we will cover the cloud chart making software LucidChart, introduce networking, and take a short dive into cybersecurity and encryption, which go hand-in-hand. I look forward to leraning about encryption as it used to be a small hobby of my friends and I.
 ___
 
 # 1. LucidChart
@@ -40,11 +40,19 @@ ___
 5. Ciphers encrypted with public key encryption can take 1,000's of years to solve if they public key is very large and the method of encryption is modular mathematics.
 
 ### Cryptography
-1. <a href="https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/caesar-cipher">The Caesar Cypher</a> was an encryption method that took each letter written and moved it back three places (e.g. N would become L). This was a rudementary but effective way of encryption.
+1. <a href="https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/caesar-cipher">The Caesar Cypher</a> was an encryption method that took each letter written and moved it back a certain number of places (e.g. if the numer was 3, N would become L). This was a rudementary but effective way of encryption.
 2. However, hundreds of years after its creation, someone cracked it using a letter frequency analysis. They observed how many times a letter was likely to apppear on average (which varies depending on the language) and created a chart (called the language's Fingerprint). They can then overlay that chart on top of a chart which shows the frequency of letter in the encrypted text, and figure out the shift used to encrypt.
-3. <a href="https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/polyalphabetic-cipher">Polyalphabetic Cypher</a> - instead of using a single shift number, polyalphabetic encryption uses a shift **word** to encrypt. The letter position of each letter in the key is laid over each of the letters in the plaintext. Then, whatever letter is laid over the plaintext is the shift. This method varies the shift letter to letter. With a word like SNAKE, cracking the code would be like solving 5 caesar cyphers at the same time. The longer the key, the stronger the encryption.
+3. <a href="https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/polyalphabetic-cipher">Polyalphabetic Cypher</a> - instead of using a single shift number, polyalphabetic encryption uses a shift **word** to encrypt. The letter position of each letter in the key is laid over each of the letters in the plaintext. Then, whatever letter is laid over the plaintext is the shift. This method varies the shift letter to letter. The longer the key, the stronger the encryption.
+4. With a word like SNAKE, one would move each letter 19, 14, 1, 11, and 5 times. <a href="http://www.satya-weblog.com/tools/find-alphabets.php">Here</a> is a reference to what the position of each letter is in the alphabet. Here is an example using SNAKE as the key:
+
+Plaintext: the caesar cypher is over two thousand years old
+
+Cyphertext: mvf nfxgbc hrdipw bg pgjk hxz yacvdfgr zpfkg pwi
+
+### Brute-Force
+Kerckhoffs' Principle states that the security of an encryption should lie solely in the choice of the **key**. Brute-force hacking is a form of codebreaking that tries every possible combination of letters, numbers, and symbols against an encryption in an attempt to find the key, until eventually it decrypts the message. These two principles are related to eachother as an incredibly long acnd complex key would take very very long to break using brute-force.
 ___
 # Summary
-
+In lab 5, we covered and experimented with LucidChart by making multiple types of charts: one for a short program and one for a network topology. In the next module, we covered the basics of networking. I enjoyed learning about network hardware and network topologies the most because now I have a deeper understanding of how a home network would work, allowing me to better troubleshoot and identify problems. In the third module, we covered encryption, a couple different cyphers, and a way to crack them using computers and python code. I would like to learn more about brute-force decryption and how to use it, so I will dedicate some time into learning some python and come back to this. The encryption module was my favorite module. 
 
 
