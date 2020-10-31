@@ -33,7 +33,7 @@ ___
 # 3. Cybersecurity and Encryption
 
 ### Information Systems Security
-1. 
+1. Confidentiality would be important, as the customer would not want their messages leaked or stolen. Integrity is important because you, as a customer, would want only true information. Availability around the clock is important as not everybody can adjust their schedules to match the available hours of your firm.
 2. Three daily tasks that require authentication are: Entering a passcode to unlock your phone, entering your email address and password to sign into your email (which is done mostly automatically now), completing a ReCaptcha.
 3. ACL (Access Control List) and RBAC (Role Based Access Control) are two forms of Access Control, which basically sorts out who can access what. For example, a janitor won't have access to a company's network of clients. ACL takes everybody in the firm and one-by-one assigns them certain access privilages. RBAC assigns the privilages to certain roles, but then assigns those roles to certain people - a two step process.
 4. A ciphertext is encrypted using a public key, and decrypted using two private keys.
