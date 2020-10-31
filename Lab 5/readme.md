@@ -32,6 +32,15 @@ ___
 
 # 3. Cybersecurity and Encryption
 
+### Information Systems Security
+1. 
+2. Three daily tasks that require authentication are: Entering a passcode to unlock your phone, entering your email address and password to sign into your email (which is done mostly automatically now), completing a ReCaptcha.
+3. ACL (Access Control List) and RBAC (Role Based Access Control) are two forms of Access Control, which basically sorts out who can access what. For example, a janitor won't have access to a company's network of clients. ACL takes everybody in the firm and one-by-one assigns them certain access privilages. RBAC assigns the privilages to certain roles, but then assigns those roles to certain people - a two step process.
+4. A ciphertext is encrypted using a public key, and decrypted using two private keys.
+5. Ciphers encrypted with public key encryption can take 1,000's of years to solve if they public key is very large and the method of encryption is modular mathematics.
+
+### Cryptography
+1. <a href="https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/caesar-cipher" style="color: black;">The Caesar Cypher</a> was an encryption method that took each letter written and moved it back three places (e.g. N would become L). This was a rudementary but effective way of encryption. However, hundreds of years after its creation, someone cracked it using a letter frequency analysis. They observed how many times a letter was likely to apppear on average (which varies depending on the language) and created a chart. They can then overlay that chart on top of a chart which shows the frequency of letter in the encrypted text, and figure out the shift used to encrypt. <a href="https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/caesar-cipher" style="color: black;">
 ___
 # Summary
 
