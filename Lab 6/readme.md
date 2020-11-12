@@ -44,6 +44,11 @@ ___
 
 # 2. HTML5 and CSS
 
+### World Wide Web Consortium
+- Tim Berners-Lee was the inventor of the World Wide Web along with the W3C (World Wide Web Consortium). He created the W3C in order to develope high quality standards for the internet in order for it to be used to its full potential. 
+
+- One example of the things they hold to high standards is the Web Architecture. It is important to have extremely high standards when it comes to web architecture because it deals with the transfer of data from one device to another, and some of that data can be sensitive.
+
 ___
 
 # 3. URL and File Paths
