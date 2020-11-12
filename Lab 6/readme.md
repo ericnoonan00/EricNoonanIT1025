@@ -59,12 +59,12 @@ ___
 # 3. URL and File Paths
 
 ### Components of a URL 
-scheme: http or https - tells the browser what protocol to use so it can display the page correctly.
-domain: www.amazon.com - the main part of the URL. The full name of the website, basically.
-top level domain: .edu, .org, .gov - identifies what type of website you would be accessing. E.g. .gov is a government run website in the USA
-default page: no file path provided
-parameters: result of search
-anchor: specific location on the webpage.
+- scheme: http or https - tells the browser what protocol to use so it can display the page correctly.
+- domain: www.amazon.com - the main part of the URL. The full name of the website, basically.
+- top level domain: .edu, .org, .gov - identifies what type of website you would be accessing. E.g. .gov is a government run website in the USA
+- default page: no file path provided
+- parameters: result of search
+- anchor: specific location on the webpage.
 ___
 # Summary
 
