@@ -42,13 +42,18 @@ ___
 - Plug-ins are one example of where a browser can become vulnerable. They often are riddled with software issues such as <a href="https://www.google.com/search?q=buffer+overflow&rlz=1C1CHBF_enUS864US864&oq=buffer+overflow&aqs=chrome..69i57.3894j0j7&sourceid=chrome&ie=UTF-8">buffer overflows</a> or other design flaws.
 ___
 
-# 2. HTML5 and CSS
+# 2. Internet Programming
 
 ### World Wide Web Consortium
 - Tim Berners-Lee was the inventor of the World Wide Web along with the W3C (World Wide Web Consortium). He created the W3C in order to develope high quality standards for the internet in order for it to be used to its full potential. 
 
 - One example of the things they hold to high standards is the Web Architecture. It is important to have extremely high standards when it comes to web architecture because it deals with the transfer of data from one device to another, and some of that data can be sensitive.
 
+### HTML5 and CSS
+- I approached the design of my webpage with a barebones mindset that I only needed to write the text with minimal formating. I used an internal stylesheet, which is when the CSS is programmed in the head portion of the page. I also used an un ordered list to explain each example. I used the &amp;lt; and &amp;gt; symbols instead of < and > because HTML won't let you type < or > because it thinks you are going to write another tag. 
+
+### XML and HTML
+XML (eXtensible Markup Language) is designed to store and transport information. It is also incredibly self descriptive (I have never seen a programming language be so self descriptive before lol). However, XML and HTML differ in purpose. HTML focuses on how data *looks* while XML focuses on what data *is* and how to carry the data. Also, XML has no predefined tags, the author just invents the tags and defines them later(?). HTML, on the other hand, uses a set of predefined tags like &lt;a&gt; or &lt;p&gt;. XML simplifies pretty much everything and has become a W3C recommendation since 1998.
 ___
 
 # 3. URL and File Paths
