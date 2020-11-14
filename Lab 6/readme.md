@@ -1,5 +1,6 @@
 # Executive Summary
 
+&tab;In lab 6, we will explore some more of what makes the internet what it is, such as: internet architecture, internet programming, and URLs. By the end of the lab I should know how websites are structured, some resources and basics of HTML5 and CSS, and how a URL works. I am most familiar with the second module as I already know some intermidiate HTML/CSS, so I look forward to that. Also, I am interested in how URLs are organized and how they work.
 ___
 
 # 1. Internet Architecture
@@ -67,5 +68,5 @@ ___
 - anchor: specific location on the webpage.
 ___
 # Summary
-
+&tab;In lab 6, we looked at some of the other things that make the internet go. Namely: internet architecture, internet programming, and URLs. We were given an in depth look at TSL/IP which is an internet protocol and a fantastic example of layered architecture. Also, we took a look at the W3C, which holds high standards for websites/web design. One thing I found particularly interesting about this module was the section about XML. Up until now, I hadn't even heard of XML. The differences between it and HTML were astonishing. XML seems so straight forward, and I will be looking more into XML on my own. Lastly, we looked at how URLs were structured.
 
