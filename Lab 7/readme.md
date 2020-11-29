@@ -13,14 +13,14 @@ A class is the blueprint to an object. You can have many objects of the same cla
 
 <code type="python">
   class Shark():
-    def __init__(self, name, species):         #__init__ is short for initialize and it defines a constructor function
-      self.name = name
-      self.species = species
-    def swim(self):
-      print(self.name + " who is a " + self.species + " is swimming")
+    def __init__(self, name, species):         #__init__ is short for initialize and it defines a constructor function<BR>
+      self.name = name<BR>
+      self.species = species<BR>
+    def swim(self):<BR>
+      print(self.name + " who is a " + self.species + " is swimming")<BR>
   
-  sharkGabe = Shark("Gabe", "Whale Shark")
-  sharkGabe.swim()
+  sharkGabe = Shark("Gabe", "Whale Shark")<BR>
+  sharkGabe.swim()<BR>
 </code>
 ___
 # OOP Concepts
