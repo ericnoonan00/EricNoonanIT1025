@@ -11,7 +11,7 @@ A constructor is a method that predefines variables in a class. For instance,say
 
 A class is the blueprint to an object. You can have many objects of the same class, they will juct follow the same "blueprint". For instance, i can have many many sharks, but they would all be a part of the shark class and follow the same blueprint and guidelines that I set in place for a shark. To instantiate an object from a class is to create an object that accesses the variables and functions in that class. This is done in python like this
 
-<code type="python">
+<code>
   class Shark():
     def __init__(self, name, species):         #__init__ is short for initialize and it defines a constructor function<br>
       self.name = name<br>
