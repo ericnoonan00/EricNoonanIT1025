@@ -28,11 +28,8 @@ If I was to go through a drive-through at a Culvers, I would have: a class that 
 
 * Object - Gabe, Sammy, and Stevie were Objects of the shark class. They were instantiated from the shark class.
 * Class - Shark would be the class as it is the name of the class and provides the instructions for shark objects.
-* Abstraction - swim(self) is an inheritance. It is a method that can be called upon by different objects.
-* Encapsulation - 
-* Inheritance - 
-
-  
-  
+* Abstraction - the definition of a shark is an abraction. An abstraction is 
+* Encapsulation - swim(self) is an encapsulation. It is a method that can be called upon by different objects.
+* Inheritance - A specific type of shark would be an inheritance.
 ___
 # Conclusion
