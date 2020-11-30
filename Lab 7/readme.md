@@ -26,9 +26,9 @@ ___
 # OOP Concepts
 If I was to go through a drive-through at a Culvers, I would have: a class that represents any order and a variable for burgers, a variable for sides, and a variable for drinks. Then, in that class I would have a constructor with boolean parameters (such as BoolBurger, BoolSide, BoolDrink, etc.) and if statements that take the parameter data to decide whether or not to display an item on my order. Finally, I would have an object that represents my specific order, with the parameters for burger and drink set to true and everything else to false. 
 
-* Object - 
-* Class - 
-* Abstraction - 
+* Object - Gabe, Sammy, and Stevie were Objects of the shark class. They were instantiated from the shark class.
+* Class - Shark would be the class as it is the name of the class and provides the instructions for shark objects.
+* Abstraction - swim(self) is an inheritance. It is a method that can be called upon by different objects.
 * Encapsulation - 
 * Inheritance - 
 
