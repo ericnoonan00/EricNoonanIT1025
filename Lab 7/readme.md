@@ -1,4 +1,5 @@
 # Executive Summary
+Lab 7 has everything to do with the insanely powerful tool that is Object Oriented Programming. First, we'll look at File compression. I'm interested to see how and why we compress files. Next, we will explore OOP in python. I'm most excited to do this one, because I just learned OOP in C# and want to know how to do it in Python too. Finally we will look at some of the concepts of OOP.
 ___
 # File/Folder Compression
 ### File Compression
@@ -33,3 +34,4 @@ If I was to go through a drive-through at a Culvers, I would have: a class that 
 * Inheritance - A specific type of shark would be an inheritance.
 ___
 # Conclusion
+In Lab 7 has we coveredFile Conpression and Object Oriented Programming. First, we looked at some of the aspects of file compression. Files are compressed for ease of sharing and minimizing your storage used. Next, we looked at python's way of doing OOP. The syntax was bafflingly simple, however, more practice is needed for me to fully understand how python computes OOP. Finally we looked at some of OOP concepts. These concepts included, but were not limited to: Abstraction, Encapsulation and Inheritance. These are important to understand because they are some of the more important concepts of OOP. 
